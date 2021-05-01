@@ -1,11 +1,10 @@
 ---
 thumbnail: "/uploads/markus-spiske-516263-unsplash.jpg"
-title: Porta400
+title: Piano Classes
 date: 2019-01-03
 categories:
-- photography
-- yellow
-project_bg_color: ''
+- piano
+project_bg_color: "#E6AAAA"
 project_fg_color: ''
 
 ---
