@@ -1,12 +1,15 @@
 ---
-thumbnail: "/uploads/cody-davis-253925-unsplash.jpg"
-title: Pineapple
+thumbnail: ''
+title: 'Piano Lessons '
 date: 2019-02-06
 categories:
-- photography
-- blue
-project_bg_color: "#EDEDED"
-project_fg_color: "#36B5EF"
+- piano
+- kids'classes
+project_bg_color: "#FFCCCC"
+project_fg_color: "#D9F0FC"
 
 ---
-![](/uploads/cody-davis-253925-unsplash.jpg)
+
+# Piano Lessons
+
+Everyone wants an affordable way to help their children learn new things, or maybe you just need a way to get their energy out in a focused and productive way. If so, then piano lessons are the perfect way for your kids to get out of the house and develop their personal skills. 
